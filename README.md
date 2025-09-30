@@ -1,2 +1,3 @@
-# desktop-setup
-My personal desktop setup apps and configs
+# Desktop Setup
+
+Personal notes to remember myself how to setup Windows and Ubuntu desktop environments
