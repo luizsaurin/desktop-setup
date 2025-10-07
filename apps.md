@@ -16,6 +16,7 @@ List of useful apps to be installed and used on a freshly installed system
 - [Mockoon](https://mockoon.com/)
 - [DBeaver](https://dbeaver.io/download/)
 - [Git](https://git-scm.com/downloads)
+- [yazi](https://github.com/sxyazi/yazi)
 
 ## Windows exclusive
 
