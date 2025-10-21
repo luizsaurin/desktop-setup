@@ -27,3 +27,5 @@ List of useful apps to be installed and used on a freshly installed system
 - [draw.io](https://www.drawio.com/)
 
 ## Ubuntu exclusive
+
+- Firewall Configuration (gufw - uncomplicated firewall)
