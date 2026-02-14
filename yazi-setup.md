@@ -4,7 +4,24 @@ Notes on how to install Yazi on Windows and Ubuntu systems.
 
 ## Windows
 
-TODO
+Install with scoop
+
+```
+scoop install yazi
+scoop install ffmpeg 7zip jq poppler fd ripgrep fzf zoxide resvg imagemagick
+```
+
+Setup `YAZI_FILE_ONE` env variable
+
+```
+$env:YAZI_FILE_ONE = "C:\Program Files\Git\usr\bin\file.exe"
+```
+
+or
+
+```
+$env:YAZI_FILE_ONE = "C:\Users\<YourUser>\scoop\apps\git\current\usr\bin\file.exe"
+```
 
 ## Ubuntu
 
