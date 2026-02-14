@@ -29,3 +29,5 @@ List of useful apps to be installed and used on a freshly installed system
 ## Ubuntu exclusive
 
 - Firewall Configuration (gufw - uncomplicated firewall)
+- [CopyQ](https://github.com/hluk/CopyQ)
+- Flameshot
