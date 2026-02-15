@@ -8,7 +8,7 @@ Follow the latest updated installation instructions on the [GitHub repository pa
 
 ## Wayland fix
 
-If the clipboard is not capturing any records, try this tutorial. Verify is the current Ubuntu is using Wayland
+If the clipboard is not capturing any records, try this tutorial. Verify if Ubuntu is using Wayland
 
 Run:
 
