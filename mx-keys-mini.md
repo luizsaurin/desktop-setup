@@ -37,3 +37,27 @@ This keyboard is built using `United Kingdom QWERTY` layout. To use special char
     - Awake
     - Command Palette
     - PowerToys Run
+
+## Ubuntu
+
+Ubuntu has a built-in key shortcuts customization app at  `Settings` -> `Keyboard`.
+
+### Next and Previous track
+
+Go to `Sound and Media` and remap these to mappings:
+
+| Command | Key shortcut |
+| - | - |
+| Next Track | Fn + F6 (Shift+Ctrl+Alt+Super+Space) |
+| Previous Track | Fn + F7 (Super+H) |
+
+### Print Screen
+
+To disable the default print screen tool, go to `Screenshots` and disable all shorcuts.
+
+Then, go to `Custom Shortcuts and add two mappings.
+
+| Name | Command | Key Shortcut |
+| - | - | - |
+| Flameshot GUI | script --command "flameshot gui" /dev/null | Print |
+| Flameshot GUI (MX Keys) | script --command "flameshot gui" /dev/null | Fn + F8 (Shift+Super+S) |

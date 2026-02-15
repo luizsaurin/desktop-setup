@@ -8,6 +8,7 @@ Notes on how to remap mouse buttons to work consistently across Windows and Ubun
 | - | - |
 | First customizable button | Previous workspace |
 | Second customizable button | Next workspace |
+| Gesture button | Open Apps view *(Ubuntu only)* |
 
 ## Windows 11
 
@@ -48,3 +49,21 @@ Its possible to create a script to visualize the ID of the buttons being pressed
 #Persistent
 KeyHistory
 ```
+
+## Ubuntu
+
+Download and install [Input Remapper](https://github.com/sezanzeb/input-remapper) utility tool
+
+Select the Logitech MX Master 3S device
+
+Create a new preset `Cycle Workspace`
+
+Add 3 mappings:
+
+| Command | Input Key | Output Macro |
+| - | - | - |
+| Next Workspace | Button EXTRA | Super_L+Alt_L+KEY_RIGHT |
+| Previous Workspace | Button SIDE | Super_L+Alt_L+KEY_LEFT |
+| Open Menu | Button FOWARD | Super_L |
+
+`Apply` and enable `Autoload` option

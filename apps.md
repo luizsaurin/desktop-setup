@@ -6,9 +6,6 @@ List of useful apps to be installed and used on a freshly installed system
 
 ### General
 
-- Web Browser
-    - [Chrome](https://www.google.com/chrome/)
-    - [Firefox](https://www.firefox.com/en-US/browsers/desktop/windows/)
 - [LibreOffice](https://www.libreoffice.org/)
 - [Spotify](https://open.spotify.com/)
 - [VSCode](https://code.visualstudio.com/)
@@ -28,6 +25,6 @@ List of useful apps to be installed and used on a freshly installed system
 
 ## Ubuntu exclusive
 
-- Firewall Configuration (gufw - uncomplicated firewall)
+- [Firewall Configuration (gufw - uncomplicated firewall)](https://costales.github.io/projects/gufw/)
 - [CopyQ](https://github.com/hluk/CopyQ)
-- Flameshot
+- [Flameshot](https://flameshot.org/)
