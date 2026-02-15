@@ -7,7 +7,7 @@ Notes on how to remap keyboard buttons to work consistently across Windows and U
 This keyboard is built using `United Kingdom QWERTY` layout. To use special characters like `çáéàèãê`, it is possible using other keyboard layouts.
 
 - Windows: United States-International QWERTY
-- Ubuntu: (to be added)
+- Ubuntu: English (US, intl., with dead keys)
 
 ## Desired settings
 
